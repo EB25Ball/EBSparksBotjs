@@ -1,0 +1,25 @@
+{
+  "name": "me-disocrd-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^0.4.1",
+    "@discordjs/voice": "^0.9.0",
+    "canvacord": "^5.2.3",
+    "discord-api-types": "^0.32.1",
+    "discord-player": "^5.2.2",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "google-translate-api": "^0.1.1",
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.5"
+  }
+}
